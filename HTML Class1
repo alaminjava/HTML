@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Your Mentality by helping others</title>
+</head>
+<body>
+   
+ 
+    <div style="text-align:center">
+        <h1 style="color:#ff0000; text-transform: uppercase;">
+            Change Your Mentality by helping others
+        </h1>
+        <img src="flower.jpg" height="500px"/>
+   
+        <p style="color:#cb9502; font-size: 20px; text-transform: uppercase;margin:0px 100px 0px 100px; text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam modi vero explicabo quia, atque perspiciatis dicta repellendus consequatur repellat porro ipsam earum ducimus quisquam hic nam quos fugit! Magni, amet!</p>
+ 
+    </div>
+</body>
+</html>
